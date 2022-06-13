@@ -1,0 +1,10 @@
+Madrid
+Euro
+Si
+Si
+Editor
+No
+Factory
+Yaml
+Kubernetes
+Python

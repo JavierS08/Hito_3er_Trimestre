@@ -1,0 +1,10 @@
+¿Cual es la capital de España?
+¿Cual es la moneda de España?
+¿Java es un lenguaje orientado a objetos?
+¿Python soporta la herencia múltiple?
+¿Visual Studio Code que es un entorno o un editor?
+¿JavaScript es un lenguaje de Bajo nivel?
+¿En Laravel que modelo nos permite cargar nuestra base de datos con información falsa o de prueba?
+¿En Docker con que tipo de archivo podemos crear varios contenedores?
+¿Como se le denomina al término contenedor de contenedores?
+¿En que lenguaje de programación esta basado el framework Django?
