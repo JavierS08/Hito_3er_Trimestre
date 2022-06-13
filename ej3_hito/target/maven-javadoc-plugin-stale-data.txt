@@ -1,0 +1,52 @@
+@options
+@packages
+@argfile
+-classpath
+'C:/Users/joanc/.m2/repository/mysql/mysql-connector-java/8.0.29/mysql-connector-java-8.0.29.jar;C:/Users/joanc/.m2/repository/com/google/protobuf/protobuf-java/3.19.4/protobuf-java-3.19.4.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'1.8'
+-sourcepath
+'C:/Users/joanc/OneDrive - SM/Documentos/NetBeansProjects/prueba/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2022. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/joanc/OneDrive - SM/Documentos/NetBeansProjects/prueba/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'prueba 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' 'C:/Users/joanc/OneDrive - SM/Documentos/NetBeansProjects/prueba/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'prueba 1.0-SNAPSHOT API'
+com.mycompany.prueba.controller
+com.mycompany.prueba.model
+com.mycompany.prueba.views
+'C:/Users/joanc/OneDrive - SM/Documentos/NetBeansProjects/prueba/src/main/java/com/mycompany/prueba/controller/Conexion.java'
+'C:/Users/joanc/OneDrive - SM/Documentos/NetBeansProjects/prueba/src/main/java/com/mycompany/prueba/model/Product.java'
+'C:/Users/joanc/OneDrive - SM/Documentos/NetBeansProjects/prueba/src/main/java/com/mycompany/prueba/views/Principal.java'
+C:\Users\joanc\.m2\repository\mysql\mysql-connector-java\8.0.29\mysql-connector-java-8.0.29.jar = 1654717982361
+C:\Users\joanc\.m2\repository\com\google\protobuf\protobuf-java\3.19.4\protobuf-java-3.19.4.jar = 1654717982349
+C:\Users\joanc\OneDrive - SM\Documentos\NetBeansProjects\prueba\src\main\java = 1654761122000
+C:\Users\joanc\OneDrive - SM\Documentos\NetBeansProjects\prueba\target\site\apidocs\allclasses-frame.html = 1654805315172
+C:\Users\joanc\OneDrive - SM\Documentos\NetBeansProjects\prueba\target\site\apidocs\allclasses-noframe.html = 1654805315173
+C:\Users\joanc\OneDrive - SM\Documentos\NetBeansProjects\prueba\target\site\apidocs\constant-values.html = 1654805315120
+C:\Users\joanc\OneDrive - SM\Documentos\NetBeansProjects\prueba\target\site\apidocs\deprecated-list.html = 1654805315171
+C:\Users\joanc\OneDrive - SM\Documentos\NetBeansProjects\prueba\target\site\apidocs\help-doc.html = 1654805315177
+C:\Users\joanc\OneDrive - SM\Documentos\NetBeansProjects\prueba\target\site\apidocs\index-all.html = 1654805315169
+C:\Users\joanc\OneDrive - SM\Documentos\NetBeansProjects\prueba\target\site\apidocs\index.html = 1654805315174
+C:\Users\joanc\OneDrive - SM\Documentos\NetBeansProjects\prueba\target\site\apidocs\overview-frame.html = 1654805315092
+C:\Users\joanc\OneDrive - SM\Documentos\NetBeansProjects\prueba\target\site\apidocs\overview-summary.html = 1654805315175
+C:\Users\joanc\OneDrive - SM\Documentos\NetBeansProjects\prueba\target\site\apidocs\overview-tree.html = 1654805315164
+C:\Users\joanc\OneDrive - SM\Documentos\NetBeansProjects\prueba\target\site\apidocs\package-list = 1654805315090
+C:\Users\joanc\OneDrive - SM\Documentos\NetBeansProjects\prueba\target\site\apidocs\script.js = 1654805315179
+C:\Users\joanc\OneDrive - SM\Documentos\NetBeansProjects\prueba\target\site\apidocs\serialized-form.html = 1654805315131
+C:\Users\joanc\OneDrive - SM\Documentos\NetBeansProjects\prueba\target\site\apidocs\stylesheet.css = 1654805315178
